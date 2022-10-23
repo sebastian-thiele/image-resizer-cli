@@ -1,1 +1,1 @@
-# image-resizer: A Go library to resize and scale images
+# image-resizer-cli: CLI to process images

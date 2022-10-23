@@ -1,3 +1,3 @@
-module github.com/sebthiele/image-resizer
+module github.com/sebthiele/image-resizer-cli
 
 go 1.19
